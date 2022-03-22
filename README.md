@@ -11,6 +11,7 @@ Tasks to address:
 2. Regression
 3. Ranking/Recommender problem
 4. Time series
-5. Churn
-6. Clustering
-7. RL
+5. Elasticity
+6. Churn
+7. Clustering
+8. RL
