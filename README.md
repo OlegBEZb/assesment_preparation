@@ -9,7 +9,8 @@ Tasks to address:
    2. Text-only classification
       1. 
 2. Regression
-3. Ranking
+3. Ranking/Recommender problem
 4. Time series
 5. Churn
 6. Clustering
+7. RL
