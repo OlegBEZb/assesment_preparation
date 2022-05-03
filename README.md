@@ -19,4 +19,8 @@ Tasks to address:
 2. Results analysis
    1. Permutation score
    2. SHAP
-   3.  
+
+
+
+TODO:
+1. Add logging to auto-sklearn https://automl.github.io/auto-sklearn/master/examples/40_advanced/example_debug_logging.html?highlight=logging
